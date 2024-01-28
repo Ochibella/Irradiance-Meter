@@ -1,3 +1,4 @@
+// ************* IRRADIANCE METER CODE ******************
 //include libraries
 #include "Wire.h" // library for I2C Communication 
 #include "LiquidCrystal_I2C.h" // Library for I2C LCD
